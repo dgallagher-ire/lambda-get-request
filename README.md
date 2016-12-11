@@ -15,5 +15,5 @@ Configure GET request
 
 Configure Integration
 
-![alt text](https://github.com/dgallagher-ire/lambda-get-request/blob/master/docs/api-get-method.jpg "get request")
+![alt text](https://github.com/dgallagher-ire/lambda-get-request/blob/master/docs/api-integration.jpg "integration")
 
