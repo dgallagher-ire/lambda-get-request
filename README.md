@@ -15,12 +15,13 @@ http://docs.aws.amazon.com/apigateway/latest/developerguide/models-mappings.html
 
 #### Configure Integration
 
-'''
+```
 {
 "firstName" : "$input.params('firstName')",
 "lastName" : "$input.params('lastName')",
 "age" : $input.params('age')
 }
-'''
+```
+
 ![alt text](https://github.com/dgallagher-ire/lambda-get-request/blob/master/docs/api-integration.jpg "integration")
 
